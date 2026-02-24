@@ -17,17 +17,10 @@ Here are some ideas to get you started:
 -->
 ### 🛠️ Tech Stack
 
-#### Programming & Database
-Python (Pandas, NumPy, DuckDB), SQL
-
-#### Data Analytics
-ETL concept, Data Processing, Exploratory Data Analysis
-
-#### Data Visualization
-Plotly, Matplotlib, Seaborn
-
-#### Tools & Environment
-Git/GitLab, Linux Command Line, Conda, Jupyter Notebook
+- Programming & Database: Python (Pandas, NumPy, DuckDB), SQL
+- Data Analytics: ETL concept, Data Processing, Exploratory Data Analysis
+- Data Visualization: Plotly, Matplotlib, Seaborn
+- Tools & Environment: Git/GitLab, Linux Command Line, Conda, Jupyter Notebook
 
 ### 🚀 Projects
 
