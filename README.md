@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### [Exploring ETL: German Credit Risk](https://github.com/Thutsaneeya/german_credit_risk)
 
 - Built an **end-to-end pipeline** using **DuckDB** and **SQL** to clean and transform raw data.
-- Developed a **Logistic Regression model (AUC: 0.66)** to identify and separate high-risk customers.
+- Developed a **Logistic Regression model (AUC: 0.66)** using **Scikit-Learn** to identify and separate high-risk customers.
 - Created visualizations to support **data-driven decisions** and improve credit risk management.
 
 #### [Flight Ticket Price Analysis](https://github.com/Thutsaneeya/flight_pricing)
