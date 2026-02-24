@@ -1,13 +1,12 @@
 ## Thutsaneeya Chanrong 👋
 
-🌱 I’m currently learning ...
 <!--
 **Thutsaneeya/Thutsaneeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Currently learning Cloud Essentials and Cloud Migration with Microsoft Azure.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ### 🛠️ Tech Stack
 
-- Programming & Database: Python (Pandas, NumPy, DuckDB), SQL
-- Data Analytics: ETL concept, Data Processing, Exploratory Data Analysis
-- Data Visualization: Plotly, Matplotlib, Seaborn
-- Tools & Environment: Git/GitLab, Linux Command Line, Conda, Jupyter Notebook
+- Programming & Database: `Python (Pandas, NumPy, DuckDB)`, `SQL`
+- Data Analytics: `ETL concept`, `Data Processing`, `Exploratory Data Analysis`
+- Data Visualization: `Plotly`, `Matplotlib`, `Seaborn`
+- Tools & Environment: `Git/GitLab`, `Linux Command Line`, `Conda`, `Jupyter Notebook`
 
 ### 🚀 Projects
 
@@ -39,7 +38,8 @@ Here are some ideas to get you started:
 #### [Reader Behavior Analysis: Mystery, Thriller & Crime](https://github.com/Thutsaneeya/goodreads_by_genre)
 
 - Analyzed reader behavior by **correlating** ratings with publication timelines.
-- Used **TextBlob** and **WordCloud** to identify **positive sentiment**, providing insights to **optimize plot development** for better reader engagement.
+- Used **TextBlob** and **WordCloud** to identify **positive sentiment**, providing insights to **optimize plot development** 
+for better reader engagement.
 - Built interactive visualizations by **Plotly** to communicate findings clearly.
 
 #### [Thailand Mental Health Dashboard](https://github.com/Thutsaneeya/mental_health_dashboard)
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - Developed and deployed a dashboard on **Streamlit** using **Plotly** and **Altair** for interactive heatmaps.
 - Provided statistics by province and year, featuring **top 5 disease rankings** to support targeted mental health awareness.
 
-### 🏆 [Digital Badges](https://www.credly.com/users/thutsaneeya-chanrong/badges#credly)
-
+### 🏆 Digital Badges
+ 
 #### Cognitive Class (IBM)
 - [Applied Data Science with Python - Level 2](https://www.credly.com/badges/32b2c51a-9480-4a39-bbaf-550ac569169d)
 - [Data Visualization Using Python](https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231)
