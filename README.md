@@ -55,14 +55,27 @@ Git/GitLab, Linux Command Line, Conda, Jupyter Notebook
 
 ## 🏆 [Digital Badges](https://www.credly.com/users/thutsaneeya-chanrong/badges#credly)
 
+### Cognitive Class (IBM)
+- [Applied Data Science with Python - Level 2](https://www.credly.com/badges/32b2c51a-9480-4a39-bbaf-550ac569169d)
+- [Data Visualization Using Python](https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231)
+- [Data Analysis Using Python](https://www.credly.com/badges/9aac9ce6-cf9d-403f-9ee1-baaff47e9e73)
+- [Python for Data Science](https://www.credly.com/badges/2113f75d-613c-4173-bb42-90df5577d4fa)
+
+### Cisco Network Academy
+- [Python Essentials 1](https://www.credly.com/badges/71cc6a14-b48e-40b4-b3fb-d5e4cfceed3b)
+- [Introduction to Data Science](https://www.credly.com/badges/8f965ffc-f3a0-4c14-b8bb-0cdc2a1c9933)
+
 ## 🎓 Academic Certificates
 
 Chulalongkorn University (CHULA MOOC)
-    - [Learn Python: Data Processing with NumPy and Matplotlib](https://drive.google.com/file/d/1Eo-IbYI_cNGP0Szn48o99-P3QqaNhY6n/view)
-    - [Crunching data with Pandas](https://drive.google.com/file/d/14TpnFDDnGV4OqkJPuAF6JMo7WQgRojKM/view)
+
+- [Learn Python: Data Processing with NumPy and Matplotlib](https://drive.google.com/file/d/1Eo-IbYI_cNGP0Szn48o99-P3QqaNhY6n/view)
+- [Crunching data with Pandas](https://drive.google.com/file/d/14TpnFDDnGV4OqkJPuAF6JMo7WQgRojKM/view)
 
 Chiang Mai University (THAI MOOC)
-    - [Data Warehouse Fundamentals](https://drive.google.com/file/d/1bUtkRLwpZswBgy-7dIN4lyAmTb1J6pvX/view)
+
+- [Data Warehouse Fundamentals](https://drive.google.com/file/d/1bUtkRLwpZswBgy-7dIN4lyAmTb1J6pvX/view)
 
 University of California, Davis (COURSERA)
-    - [SQL for Data Science](https://coursera.org/share/048936677323cf8ef098970cabc74ca7)
+
+- [SQL for Data Science](https://coursera.org/share/048936677323cf8ef098970cabc74ca7)
