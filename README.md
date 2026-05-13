@@ -1,5 +1,7 @@
-# Thutsaneeya Chanrong 👋
-
+-- # Thutsaneeya Chanrong 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="400">
+</p>
 <!--
 **Thutsaneeya/Thutsaneeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -87,17 +89,15 @@ for better reader engagement.
   <a href="https://www.credly.com/badges/8f965ffc-f3a0-4c14-b8bb-0cdc2a1c9933/public_url"><img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="120" /></a>
 </p>
 <!--### Cognitive Class (IBM)
-
 - [Applied Data Science with Python - Level 2](https://www.credly.com/badges/32b2c51a-9480-4a39-bbaf-550ac569169d)
 - [Data Visualization Using Python](https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231)
 - [Data Analysis Using Python](https://www.credly.com/badges/9aac9ce6-cf9d-403f-9ee1-baaff47e9e73)
 - [Python for Data Science](https://www.credly.com/badges/2113f75d-613c-4173-bb42-90df5577d4fa)
-
 ### Cisco Network Academy
-
 - [Python Essentials 1](https://www.credly.com/badges/71cc6a14-b48e-40b4-b3fb-d5e4cfceed3b)
 - [Introduction to Data Science](https://www.credly.com/badges/8f965ffc-f3a0-4c14-b8bb-0cdc2a1c9933)
 -->
+
 ## 🎓 Academic Certificates
 
 Chulalongkorn University (CHULA MOOC)
