@@ -13,15 +13,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 -->
-## 🛠️ Tech Stack
-
+<p align="left">
+  <!-- แถวที่ 1: Processing & Foundation (หัวใจของการจัดการข้อมูล) -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <br />
+  <!-- แถวที่ 2: Visualization & Cloud (การนำเสนอและการขยายระบบ) -->
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+<!--## 🛠️ Tech Stack
 - Programming & Database: `Python (Pandas, NumPy, DuckDB)`, `SQL`
 - Data Analytics: `ETL concept`, `Data Processing`, `Exploratory Data Analysis`
 - Data Visualization: `Plotly`, `Matplotlib`, `Seaborn`
 - Tools & Environment: `Git/GitLab`, `Linux Command Line`, `Conda`, `Jupyter Notebook`
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 ### [Exploring ETL: German Credit Risk](https://github.com/Thutsaneeya/german_credit_risk)
 
@@ -47,7 +71,7 @@ for better reader engagement.
 - Combined raw datasets with **GeoJSON** using **Pandas** to analyze year-over-year trends and regional disparities in mental health.
 - Developed and deployed a dashboard on **Streamlit** using **Plotly** and **Altair** for interactive heatmaps.
 - Provided statistics by province and year, featuring **top 5 disease rankings** to support targeted mental health awareness.
-
+-->
 ## 🏆 Digital Badges
  
 ### Cognitive Class (IBM)
