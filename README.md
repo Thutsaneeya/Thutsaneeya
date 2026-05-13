@@ -74,11 +74,9 @@ for better reader engagement.
 - Provided statistics by province and year, featuring **top 5 disease rankings** to support targeted mental health awareness.
 -->
 ## 🏆 Digital Badges
-### 📜 Certifications & Digital Badges
-
 <p align="left">
   <!-- แถวที่ 1 -->
-  <a href="https://www.credly.com/badges/cc68719f-377a-436a-bbd4-5c2765dcb4ea/public_url"><img src="https://images.credly.com/images/cc68719f-377a-436a-bbd4-5c2765dcb4ea/image.png" width="120" /></a>
+  <a href="https://www.credly.com/badges/cc68719f-377a-436a-bbd4-5c2765dcb4ea/public_url"><img src="https://images.credly.com/size/680x680/images/13be463b-4b29-4060-bedc-90f89f15b653/blob" width="120" /></a>
   <a href="https://www.credly.com/badges/32b2c51a-9480-4a39-bbaf-550ac569169d/public_url"><img src="https://images.credly.com/images/32b2c51a-9480-4a39-bbaf-550ac569169d/image.png" width="120" /></a>
   <a href="https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231/public_url"><img src="https://images.credly.com/images/a3bd1817-c9ba-4fe2-b454-c3f03808d231/image.png" width="120" /></a>
   <a href="https://www.credly.com/badges/9aac9ce6-cf9d-403f-9ee1-baaff47e9e73/public_url"><img src="https://images.credly.com/images/9aac9ce6-cf9d-403f-9ee1-baaff47e9e73/image.png" width="120" /></a>
