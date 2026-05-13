@@ -78,7 +78,7 @@ for better reader engagement.
   <!-- แถวที่ 1 -->
   <a href="https://www.credly.com/badges/cc68719f-377a-436a-bbd4-5c2765dcb4ea/public_url"><img src="https://images.credly.com/size/680x680/images/13be463b-4b29-4060-bedc-90f89f15b653/blob" width="120" /></a>
   <a href="https://www.credly.com/badges/32b2c51a-9480-4a39-bbaf-550ac569169d/public_url"><img src="https://images.credly.com/size/680x680/images/90b92982-adc0-4826-afeb-455be8609899/blob" width="120" /></a>
-  <a href="https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231/public_url"><img src="https://images.credly.com/size/680x680/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" /></a>
+  <a href="https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231/public_url"><img src="https://images.credly.com/size/680x680/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" width="120"/></a>
   <a href="https://www.credly.com/badges/9aac9ce6-cf9d-403f-9ee1-baaff47e9e73/public_url"><img src="https://images.credly.com/size/680x680/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" width="120" /></a>
   <br/><br/>
   <!-- แถวที่ 2 -->
