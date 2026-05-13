@@ -74,8 +74,8 @@ for better reader engagement.
 - Provided statistics by province and year, featuring **top 5 disease rankings** to support targeted mental health awareness.
 -->
 ## 🏆 Digital Badges
- 
-### Cognitive Class (IBM)
+ [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/cc68719f-377a-436a-bbd4-5c2765dcb4ea)
+<!--### Cognitive Class (IBM)
 
 - [Applied Data Science with Python - Level 2](https://www.credly.com/badges/32b2c51a-9480-4a39-bbaf-550ac569169d)
 - [Data Visualization Using Python](https://www.credly.com/badges/a3bd1817-c9ba-4fe2-b454-c3f03808d231)
@@ -86,8 +86,8 @@ for better reader engagement.
 
 - [Python Essentials 1](https://www.credly.com/badges/71cc6a14-b48e-40b4-b3fb-d5e4cfceed3b)
 - [Introduction to Data Science](https://www.credly.com/badges/8f965ffc-f3a0-4c14-b8bb-0cdc2a1c9933)
-
-### 🎓 Academic Certificates
+-->
+## 🎓 Academic Certificates
 
 Chulalongkorn University (CHULA MOOC)
 
